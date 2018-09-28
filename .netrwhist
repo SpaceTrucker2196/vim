@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/wzmvxk/workspace/FastTestProject/fastlane'
+let g:netrw_dirhist_2='/Users/wzmvxk/workspace/maven/gm-uas-mobile-maven-ios/fastlane'
+let g:netrw_dirhist_3='/Users/wzmvxk/workspace/fastlane/snapshot/example/fastlane'
+let g:netrw_dirhist_4='/Users/wzmvxk/workspace/fastlane/snapshot/example'
+let g:netrw_dirhist_5='/Users/wzmvxk/workspace/fastlane/snapshot'
+let g:netrw_dirhist_6='/Users/wzmvxk/workspace/fastlane'
+let g:netrw_dirhist_7='/Users/wzmvxk/workspace/maven/gm-uas-mobile-maven-ios/fastlane'
